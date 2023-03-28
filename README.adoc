@@ -1,1 +1,12 @@
 = TP2-GPO
+TP d'initiation au projets github
+
+Nous avons créé un projet github correspondant au TP1 de gestion de projet. Nous avons également créé des milestones et des issues correspondant aux différentes étapes du projet.
+
+
+|===
+|Date |Nom |Lien |Retour
+
+|01-01-24 |TP1 |  |
+|08-01-24 |TP2 |  |
+|===
